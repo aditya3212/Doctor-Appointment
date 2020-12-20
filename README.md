@@ -11,10 +11,13 @@ How to run this project:
 2)Install django restful api
 
 3)Make migration using command 
+
  python manage.py makemigrations
+ 
  python manage.py migrate
  
 4)Then run server:
+
 python manage.py runserver
 
 5)Visit http://127.0.0.1:8000
